@@ -10,7 +10,7 @@
 
 ## Блок 2. Базы данных 
 
-2.1. [Базы данных](./databases/)
+2.1. [Базы данных](first-project/first_project/databases/)
 
 2.2. [Базы данных 2](./databases_2/)
 
